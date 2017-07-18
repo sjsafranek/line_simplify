@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"vehicle_number":"222"},"geometry":{"type":"LineString","coordinates":[[-122.427084,45.502475],[-122.436044,45.505786],[-122.470714,45.520534],[-122.477888,45.522041],[-122.511406,45.522305]]}}]}
